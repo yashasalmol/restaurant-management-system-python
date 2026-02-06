@@ -1,0 +1,15 @@
+1,  paneer, 200
+10,  cake, 90
+10,  cake, 450
+9,  soup, 630
+1,  paneer, 1000
+1,  paneer, 1000
+10,  cake, 900
+10,  cake, 180
+1,  paneer, 300
+10,  cake, 180
+18,  Chocolate Brownie, 560
+18,  Chocolate Brownie, 560
+17,  Gulab Jamun, 100
+19,  French Fries, 120
+19,  French Fries, 120

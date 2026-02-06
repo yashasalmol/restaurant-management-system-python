@@ -1,0 +1,19 @@
+1, Paneer Butter Masala, 220
+2, Chicken Biryani, 280
+3, Veg Fried Rice, 150
+4, Masala Dosa, 120
+5, Margherita Pizza, 300
+6, Chicken Tandoori, 350
+7, Veg Sandwich, 90
+8, Cheese Burger, 130
+9, Aloo Paratha, 80
+10, Mutton Curry, 340
+11, Cold Coffee, 110
+12, Oreo Shake, 150
+13, Chicken Popcorn, 180
+14, Veg Hakka Noodles, 160
+15, Idli Sambar, 70
+16, Fish Fry, 320
+17, Gulab Jamun, 50
+18, Chocolate Brownie, 140
+19, French Fries, 60
